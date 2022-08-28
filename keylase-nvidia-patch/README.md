@@ -1,3 +1,6 @@
+
+Save the script above to any directory you wish, and then run `chmod +x keylase-nvidia-patch.sh` on it to make it executable. Then run `./keylase-nvidia-patch.sh` to patch the driver for the first time. To make this persist, do the configuration below.
+
 Go to 'System Settings -> Advanced -> Init/Shutdown Scripts' and click the 'Add' button.
 
 Enter the information as follows after saving the `nvidia-patch.sh` script somewhere.
